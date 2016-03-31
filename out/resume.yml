@@ -1,0 +1,99 @@
+basics:
+  name: 'Jonathan Greenemeier'
+  label: Programmer
+  picture: ""
+  email: jonathan.greenemeier@gmail.com
+  phone: '(720) 401-6577'
+  website: 'http://github.com/6eDesign'
+  summary: 'I am a fullstack web developer located in Thornton, Colorado.  I love architecting and building scalable, configuration-driven, web applicataions and frameworks with RESTful API''s and JavaScript.  When writing my own API''s and backend services, I prefer Node.js but also have experience in PHP, Java (Spring), and some .NET.  I pride myself in writing ''vanilla'' JavaScript that is lightweight and free of external dependencies but sometimes I like to play with Leaflet and D3.js and have experience with most of the big libraries and frameworks.  I thoroughly enjoy working with teams of other intelligent developers, peer-programming, and learning techniques, languages, and libraries.'
+  location:
+    address: '1882 E 104th Ave'
+    postalCode: 'CO 80233'
+    city: Thornton
+    countryCode: US
+    region: Colorado
+  profiles:
+    -
+      network: Github
+      username: 6eDesign
+      url: 'http://github.com/6eDesign'
+    -
+      network: BitBucket
+      username: 6eDesign
+      url: 'https://bitbucket.org/jgreenemeier/'
+work:
+  -
+    company: HomeAdvisor
+    position: 'Senior JavaScript Developer, Senior UI Developer, Front-end Automation Lead'
+    website: 'http://www.homeadvisor.com'
+    startDate: '2013-03-01'
+    endDate: Present
+    summary: 'HomeAdvisor provides a matching service which is designed to pair homeowners with qualified and pre-screened contractors.'
+    highlights:
+      - 'Tested and implemented performance improvements to all pages down the website''s purchase path that systematically improved conversion rates and overall revenue'
+      - 'Re-designed core products to utilize responsive, mobile-first, design patterns.  After testing and verifying improved conversion, this framework was applied to all key components of the website and large amounts of legacy, mobile-optimized, code were removed.'
+      - 'Implemented automated Selenium testing with Nightwatch.js, Docker, Selenium-Grid, and Jenkins and led efforts across UI and automation departments to standardize best practices regarding writing and running Nightwatch.js tests.'
+      - 'Lead UI developer for core product initiatives such as Instant Booking, Booking with Google, Booking with Facebook, and Instant Connect from pilot to nationwide rollout.'
+      - 'Implemented new load testing framework with Node.js and D3.js for data visualization/monitoring.'
+      - 'Created fun realtime map for HomeAdvisor.com website activity using Node.js, Express, D3.js, Kafka, and WebSockets.  See it in action and read more here: https://homeadvisor.tech/real-time-data-visualization-mongodb-kafka-d3-node/'
+  -
+    company: 'Hillside Software'
+    position: 'Software Developer'
+    website: 'http://hillsidesoftware.com/'
+    startDate: '2012'
+    endDate: '2013'
+    summary: 'HillSide Software provides custom solutions for realtors and homebuyers that integrate with MLS information.'
+    highlights:
+      - 'Created a least-squares algorithm to optimize performance of polygonally-shaped geo-spatial queries on a legacy server platform'
+      - 'Worked on a client-side mapping application using Leaflet and RESTful API''s'
+      - 'Explored and compared a variety of client-side frameworks including Meteor, Backbone, Angular, and Knockout'
+      - 'Assisted in exploration of Node.js for API creation, testing, and as a general web-server (as a replacement for existing .NET solutions)'
+  -
+    company: 6eDesign
+    position: 'Owner, Programmer'
+    website: 'http://6eDesign.net'
+    startDate: '2008-04-01'
+    endDate: Present
+    summary: 'Build custom web, technology, and multimedia solutions for local and international businesses and organizations'
+    highlights: []
+education:
+  -
+    institution: 'University of Colorado Denver'
+    area: 'Applied Mathematics'
+    studyType: Incomplete
+    startDate: '2012-08-01'
+    endDate: '2013-05-01'
+    gpa: '3.8'
+    courses: []
+  -
+    institution: 'Front Range Community College'
+    area: Sciences
+    studyType: 'Associates of Science'
+    startDate: '2011-08-01'
+    endDate: '2013-05-01'
+    gpa: '3.9'
+    courses: []
+publications:
+  -
+    name: 'Real Time Data Visualization'
+    publisher: HomeAdvisor.tech
+    releaseDate: '2016-02-15'
+    website: 'https://homeadvisor.tech/real-time-data-visualization-mongodb-kafka-d3-node/'
+    summary: 'Real Time Data Visualization With MongoDB, Kafka, D3.js, and Node.js'
+skills:
+  -
+    name: 'Web Development'
+    level: Master
+    keywords:
+      - Javascript
+      - Node.js
+      - D3.js
+      - Angular
+      - Backbone
+      - Java
+      - HTML
+      - Jade
+      - JSP
+      - CSS
+      - Less
+      - Sass

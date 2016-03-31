@@ -1,0 +1,16 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Greenemeier <Jon@6eDesign.net> (https://github.com/6edesign)",
+  "license": "ISC",
+  "dependencies": {
+    "hackmyresume": "^1.8.0",
+    "jsonresume-theme-classy": "^1.0.9",
+    "resume-cli": "^0.4.11"
+  }
+}

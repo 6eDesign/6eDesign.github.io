@@ -6,7 +6,7 @@
     "email": "jonathan.greenemeier@gmail.com",
     "phone": "(720) 401-6577",
     "website": "http://github.com/6eDesign",
-    "summary": "I am a fullstack web developer located in Thornton, Colorado.  I love architecting and building scalable, configuration-driven, web applicataions and frameworks with RESTful API's and JavaScript.  When writing my own API's and backend services, I prefer Node.js but also have experience in PHP, Java (Spring), and some .NET.  I pride myself in writing 'vanilla' JavaScript that is lightweight and free of external dependencies but sometimes I like to play with Leaflet and D3.js and have experience with most of the big libraries and frameworks.  I thoroughly enjoy working with teams of other intelligent developers, peer-programming, and learning new techniques, languages, and libraries.",
+    "summary": "I am a fullstack web developer located in Thornton, Colorado.  I love architecting and building scalable, configuration-driven, web applicataions and frameworks with RESTful API's and JavaScript.  When writing my own API's and backend services, I prefer Node.js but also have some experience in PHP and Java (Spring).  I pride myself in writing 'vanilla' JavaScript that is lightweight and free of external dependencies but sometimes I like to play with Leaflet, D3.js, and Svelte and have some experience with many of the big libraries and frameworks.  I thoroughly enjoy working with teams of talented developers, peer-programming, and learning new techniques, languages, and libraries.",
     "location": {
       "address": "1882 E 104th Ave",
       "postalCode": "CO 80233",
@@ -36,10 +36,11 @@
       "endDate": "Present",
       "summary": "HomeAdvisor provides a matching service which is designed to pair homeowners with qualified and pre-screened contractors.",
       "highlights": [
-        "Tested and implemented performance improvements to all pages down the website's purchase path that systematically improved conversion rates and overall revenue",
+        "Architected, built, monitored, and maintained the https://match.angieslist.com web property for the merger with AngiesList.com (Node.js [Express], Docker, Rancher, Jenkins, Gitlab CI, Coherence, HAProxy).",
+        "Tested and implemented performance improvements to all pages down HomeAdvisor.com's purchase path that systematically improved conversion rates and overall revenue",
         "Re-designed core products to utilize responsive, mobile-first, design patterns.  After testing and verifying improved conversion, this framework was applied to all key components of the website and large amounts of legacy, mobile-optimized, code were removed.",
-        "Implemented automated Selenium testing with Nightwatch.js, Docker, Selenium-Grid, and Jenkins and led efforts across UI and automation departments to standardize best practices regarding writing and running Nightwatch.js tests.",
-				"Lead UI developer for core product initiatives such as Instant Booking, Booking with Google, Booking with Facebook, and Instant Connect from pilot to nationwide rollout.", 
+        "Implemented automated Selenium testing with Nightwatch.js, Docker, Selenium-Grid, and Jenkins and led efforts across UI department to standardize best practices regarding writing and running Nightwatch.js tests.",
+				"Lead UI developer for core product initiatives such as the service request path, Instant Booking, Booking with Google, Booking with Facebook, Consumer Choice, and Instant Connect from pilot to nationwide rollout.", 
 				"Implemented new load testing framework with Node.js and D3.js for data visualization/monitoring.",
 				"Created fun realtime map for HomeAdvisor.com website activity using Node.js, Express, D3.js, Kafka, and WebSockets.  See it in action and read more here: https://homeadvisor.tech/real-time-data-visualization-mongodb-kafka-d3-node/"
       ]
@@ -106,10 +107,12 @@
 				"Node.js",
 				"D3.js",
 				"Angular",
-				"Backbone", 
+        "Backbone", 
+        "Svelte/Sapper",
 				"Java",
         "HTML", 
-				"Jade", 
+        "Jade/Pug", 
+        "Rollup",
 				"JSP",
         "CSS",
 				"Less",

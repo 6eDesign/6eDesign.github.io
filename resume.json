@@ -3,7 +3,7 @@
   "info": {
     "label": "JavaScript Developer",
     "image": "",
-    "brief": "I am a fullstack web developer located in Thornton, Colorado.  I love architecting and building scalable, configuration-driven, web applicataions and frameworks with RESTful API's and JavaScript.  When writing my own API's and backend services, I prefer Node.js but also have some experience in PHP and Java (Spring).  I pride myself in writing 'vanilla' JavaScript that is lightweight and free of external dependencies but sometimes I like to play with Leaflet, D3.js, and Svelte and have some experience with many of the big libraries and frameworks.  I thoroughly enjoy working with teams of talented developers, peer-programming, and learning new techniques, languages, and libraries."
+    "brief": "I am a fullstack web developer located in Westminster, Colorado.  I love architecting and building scalable, configuration-driven, web applicataions with RESTful API's, JavaScript, Docker, and Kubernetes.  When writing my own API's and backend services, I prefer Node.js.  I thoroughly enjoy working with, learning from, and mentoring fellow engineers."
   },
   "contact": {
     "email": "jonathan.greenemeier@gmail.com",
@@ -15,14 +15,32 @@
     "version": "0.1.0"
   },
   "location": {
-    "city": "Thornton",
+    "city": "Westminster",
     "region": "Colorado",
     "country": "US",
-    "code": "CO 80233",
-    "address": "1882 E 104th Ave"
+    "code": "CO 80021",
+    "address": "9767 W 107th Dr"
   },
   "employment": {
     "history": [
+      {
+        "position": "Principal Software Engineer",
+        "employer": "VIZIO Inc",
+        "summary": "Individual contributor, architect, mentor, and lead for client-facing applications running on VIZIO televisions",
+        "start": "2021-07-01",
+        "end": "2023-10-13",
+        "url": "https://ui.sctv.prod.smartcasttv.com/demo/resized",
+        "keywords": [],
+        "highlights": [
+          "Led, mentored, taught, and architected-for three wonderful teams of talented client and automation engineers",
+          "Built, maintained, and improved software used by ~18m active users",
+          "Architected and led migration/rewrite of legacy codebases to improve performance and user experience",
+          "Implemented a re-usable backend-for-frontend (BFF) framework using Node.js, Kubernetes, and Gloo API Gateway",
+          "Led effort to implement CI/CD for all client applications in Github Actions",
+          "Developed a realtime monitoring/alerting solution using Kinesis, SNS/SQS, InfluxDB, and Grafana",
+          "Introduced Cypress and Playwright testing frameworks"
+        ]
+      },
       {
         "position": "Senior Software Engineer",
         "employer": "T-Mobile Home & Entertainment (T-Vision)",

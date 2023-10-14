@@ -137,18 +137,14 @@
         "skills": [
           "Javascript",
           "Node.js",
+          "Docker",
+          "Kubernetes",
+          "Svelte/SvelteKit",
+          "CI/CD (github, gitlab, circle)",
           "D3.js",
-          "Angular",
-          "Backbone",
-          "Svelte/Sapper",
-          "Java",
           "HTML",
-          "Jade/Pug",
-          "Rollup",
-          "JSP",
           "CSS",
-          "Less",
-          "Sass"
+          "Jade/Pug"
         ]
       }
     ]
